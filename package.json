@@ -5,11 +5,11 @@
   "private": true,
   "dependencies": {
     "graphiql": "^0.12.0",
-    "graphiql-code-exporter": "2.0.4",
+    "graphiql-code-exporter": "^2.0.5",
     "graphql": "^14.1.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
+    "react-scripts": "^2.1.3"
   },
   "scripts": {
     "start": "react-scripts start",
